@@ -10,5 +10,5 @@ free -g
 echo "print the CPU:"
 nproc
 
-echo "print the RAM"
-top -h
+#echo "print the RAM"
+#top -h
