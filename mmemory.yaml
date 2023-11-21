@@ -10,5 +10,12 @@ free -g
 echo "print the CPU:"
 nproc
 
+<<<<<<< HEAD
 #echo "print the RAM"
 #top -h
+=======
+echo "print nginx status"
+systemctl status nginx
+ 
+echo "hello"
+>>>>>>> 99d1bfe (my new back home)
